@@ -2,7 +2,6 @@
 // fix the code so that it returns correct rgade 
 // e.g. 90 = 'A'
 
-
 function getGradeFromPoints(points) {
   if (points >= 90) {
     return "A";
